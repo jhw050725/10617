@@ -4,5 +4,5 @@
 + 출력: print()=>f-string\
 + if문
   + if ...: 명령문 elif...:명령문 else:
-  + for문:반복문=>range()
-  + while문
++ for문:반복문=>range()
++  + while문
